@@ -163,7 +163,7 @@ By helping companies reduce customer loss and improve retention strategies, the 
 
 ## 👨‍💻 Author
 
-**Naveen Jayaraj**  
+**Parvathy Porur**  
 B.Tech CSE (AIML)
 
 ---
