@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Data files
+data/raw/
+data/processed/
+
+# Models and transformers
+src/transformers/*.pkl
+
+# Document files (if unnecessary for the repo)
+*.docx
+doc_content.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
